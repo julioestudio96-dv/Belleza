@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+
+input {
+  @apply border border-black rounded-3xl p-3 w-50;
+}
+
+select {
+  @apply border border-black rounded-3xl p-3 w-50;
+}
